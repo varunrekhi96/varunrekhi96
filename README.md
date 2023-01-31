@@ -13,7 +13,6 @@ Hands-on Experience on Latest Cloud Tech Stack (AWS, Azure), SQL, Teradata, Linu
 
 *   🌍  I'm based in Bangalore
 *   🧠  I'm learning Cloud (AWS, Azure) , DevOps, Python and Latest Trending Technologies in order to create impact in future tech
-*   🤝  I'm open to collaborating on Projects
 *   💬  Ask me about **Cloud Computing**
 *       AWS | Azure Certified
 *       Earned Gold Badge and 5 star in SQL|Python on HackerRank
