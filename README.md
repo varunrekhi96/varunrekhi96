@@ -3,15 +3,17 @@
 
 <p align="left"> <img src="https://drive.google.com/file/d/1B8He4vB7nhBwFiYu9I3Y30tCn3p9z3Yl/view?usp=share_link" alt="varunrekhi" /> </p>
 
-- 🌱 I’m currently learning **Cloud (AWS, Azure) , DevOps, Python and Latest Trending Technologies to create impact in future changing tech roles**
+* 🌍  I'm based in Bangalore
 
-- 💬 Ask me about **Cloud Computing**
+* 🌱 I’m currently learning **Cloud (AWS, Azure) , DevOps, Python and Latest Trending Technologies to create impact in future changing tech roles**
 
-- 📫 How to reach me **varunrekhi262@gmail.com**
+* 💬 Ask me about **Cloud Computing**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1OFX0gSnD_p6aPtSX3vBDN25RDeF3Tw1y/edit?usp=share_link&ouid=101419122552560585444&rtpof=true&sd=true](https://docs.google.com/document/d/1OFX0gSnD_p6aPtSX3vBDN25RDeF3Tw1y/edit?usp=share_link&ouid=101419122552560585444&rtpof=true&sd=true)
+* 📫 How to reach me **varunrekhi262@gmail.com**
 
-- ⚡ Fun fact **I m Techie, Tell Everyone**
+* 📄 Know about my experiences [https://docs.google.com/document/d/1OFX0gSnD_p6aPtSX3vBDN25RDeF3Tw1y/edit?usp=share_link&ouid=101419122552560585444&rtpof=true&sd=true](https://docs.google.com/document/d/1OFX0gSnD_p6aPtSX3vBDN25RDeF3Tw1y/edit?usp=share_link&ouid=101419122552560585444&rtpof=true&sd=true)
+
+* ⚡ Fun fact **I m Techie, Tell Everyone**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
