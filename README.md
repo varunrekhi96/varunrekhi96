@@ -1,6 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I m Varunjeet Singh Rekhi
 =============================================================================================================================================
 
+<img src = "https://ecstech.com/wp-content/uploads/2019/06/Cloud-Banner_AWSAzure.png" width = "100%">
+
 Software Engineer
 -----------------
 
@@ -13,6 +15,7 @@ Hands-on Experience on Latest Cloud Tech Stack (AWS, Azure), SQL, Teradata, Linu
 *   🧠  I'm learning Cloud (AWS, Azure) , DevOps, Python and Latest Trending Technologies in order to create impact in future tech
 *   🤝  I'm open to collaborating on Projects
 *   💬  Ask me about **Cloud Computing**
+*       AWS | Azure Certified
 *       Earned Gold Badge and 5 star in SQL|Python on HackerRank
 *       I m working on building my online presence
 *   ⚡  I m Techie, Tell Everyone
