@@ -71,9 +71,6 @@ Hands-on Experience on Latest Cloud Tech Stack (AWS, Azure), SQL, Teradata, Linu
 </p>
                     
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/varunjeetsinghrekhi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/varunjeetsinghrekhi/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/varunrekhi262?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/varunrekhi262?hr_r=1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/varunrekhi262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="varunrekhi262" height="30" width="40" /></a>
-<a href="/https://www.datacamp.com/profile/varunrekhi262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.datacamp.com/profile/varunrekhi262" height="30" width="40" /></a>
+
+<p align="left"> <a href="https://www.github.com/varunrekhi96" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/varunjeetsinghrekhi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 </p>
