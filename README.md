@@ -7,7 +7,7 @@ Software Engineer
 -----------------
 
 
-Hands-on Experience on Latest Cloud Tech Stack (AWS, Azure), SQL, Teradata, Linux, Automation, Mainframe and few others. 
+Hands-on Experience on Latest Cloud Tech Stack (AWS, Azure), SQL, Teradata, Linux, Automation, Python, Analytics, GIT commands, Hadoop, Mainframe and few others.
 2 years of Experience, looking for challenging role of DevOps, Cloud Engineer & Automation. Effective team player with a desire to join a growing company using my programming, software and communication skills. AWS and Azure Certified. Working as a Software Engineer for US Client, Multinational Banking and Financial Services.
 
 
