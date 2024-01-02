@@ -1,3 +1,5 @@
+![logo](https://github.com/varunrekhi96/varunrekhi96/blob/main/Big-Data-Engineer.jpg)
+
 <h1 align="center">Hi 👋, I'm Varunjeet Singh Rekhi</h1>
 <h3 align="center">Skilled Big Data Engineer with 3 years of experience in building, optimizing, monitoring, supporting Data Engineering / Big Data solutions and proven knowledge to work on end-to-end data pipelines. Proficient in SQL, Hadoop, Apache Spark, PySpark and cloud-based data platforms. Data Engineer with a strong passion for turning raw data into valuable insights. Masters in collaborating with cross-functional teams to deliver high-quality solutions saving project costs by around 20%.</h3>
 
