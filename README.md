@@ -17,7 +17,7 @@ Skilled Big Data Engineer with 3 years of experience in building, optimizing, mo
 *       I m working on building my online presence
 *   ⚡  I m Techie, Tell Everyone
 *   📫 How to reach me **varunrekhi262@gmail.com**
-*   📄 Know about my experiences [https://docs.google.com/document/d/1OFX0gSnD_p6aPtSX3vBDN25RDeF3Tw1y/edit?usp=share_link&ouid=101419122552560585444&rtpof=true&sd=true](https://docs.google.com/document/d/1OFX0gSnD_p6aPtSX3vBDN25RDeF3Tw1y/edit?usp=share_link&ouid=101419122552560585444&rtpof=true&sd=true)
+
 <h3 align="left">My Tech Toolbox</h3>
 
 <p align="left">
