@@ -11,8 +11,7 @@ Skilled Big Data Engineer with 3 years of experience in building, optimizing, mo
 
 
 *   🌍  I'm based in Bangalore
-*   🧠  I'm learning Cloud (AWS, Azure) , DevOps, Python and Latest Trending Technologies in order to create impact in future tech
-*   💬  Ask me about **Cloud Computing**
+*   💬  Ask me about **Data Engineering | Big Data**
 *       AWS | Azure Certified
 *       Earned Gold Badge and 5 star in SQL|Python on HackerRank
 *       I m working on building my online presence
