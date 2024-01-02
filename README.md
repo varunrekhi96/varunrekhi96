@@ -72,7 +72,8 @@ Skilled Big Data Engineer with 3 years of experience in building, optimizing, mo
                     
 <h3 align="left">Connect with me:</h3>
 
-<p align="left"> <a href="https://www.github.com/varunrekhi96" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/varunjeetsinghrekhi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/varunrekhi96" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<a href="https://www.linkedin.com/in/varunjeetsinghrekhi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 </p>
 
 <b>My GitHub Stats</b>
