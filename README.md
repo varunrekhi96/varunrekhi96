@@ -3,12 +3,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <img src = "https://ecstech.com/wp-content/uploads/2019/06/Cloud-Banner_AWSAzure.png" width = "100%">
 
-Software Engineer
+Big Data Engineer
 -----------------
 
 
-Hands-on Experience on Latest Cloud Tech Stack (AWS, Azure), SQL, Teradata, Linux, Automation, Python, Analytics, GIT commands, Hadoop, Mainframe and few others.
-2 years of Experience, looking for challenging role of DevOps, Cloud Engineer & Automation. Effective team player with a desire to join a growing company using my programming, software and communication skills. AWS and Azure Certified. Working as a Software Engineer for US Client, Multinational Banking and Financial Services.
+Skilled Big Data Engineer with 3 years of experience in building, optimizing, monitoring, supporting Data Engineering / Big Data solutions and proven knowledge to work on end-to-end data pipelines. Proficient in SQL, Hadoop, Apache Spark, PySpark and cloud-based data platforms. Data Engineer with a strong passion for turning raw data into valuable insights. Masters in collaborating with cross-functional teams to deliver high-quality solutions saving project costs by around 20%.
 
 
 *   🌍  I'm based in Bangalore
