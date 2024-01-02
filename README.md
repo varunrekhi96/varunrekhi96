@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I m Varunjeet Singh Rekhi
 =============================================================================================================================================
 
-<img src = "https://ecstech.com/wp-content/uploads/2019/06/Cloud-Banner_AWSAzure.png" width = "100%">
+<img src = "https://cdn.educba.com/academy/wp-content/uploads/2021/09/Big-Data-Engineer.jpg.webp" width = "100%">
 
 Big Data Engineer
 -----------------
