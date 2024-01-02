@@ -1,7 +1,7 @@
 ![logo](https://github.com/varunrekhi96/varunrekhi96/blob/main/Big-Data-Engineer.jpg)
 
 <h1 align="center">Hi 👋, I'm Varunjeet Singh Rekhi</h1>
-<h3 align="center">Skilled Big Data Engineer with 3 years of experience in building, optimizing, monitoring, supporting Data Engineering / Big Data solutions and proven knowledge to work on end-to-end data pipelines. Proficient in SQL, Hadoop, Apache Spark, PySpark and cloud-based data platforms. Data Engineer with a strong passion for turning raw data into valuable insights. Masters in collaborating with cross-functional teams to deliver high-quality solutions saving project costs by around 20%.</h3>
+<h3 align="justified">Skilled Big Data Engineer with 3 years of experience in building, optimizing, monitoring, supporting Data Engineering / Big Data solutions and proven knowledge to work on end-to-end data pipelines. Proficient in SQL, Hadoop, Apache Spark, PySpark and cloud-based data platforms. Data Engineer with a strong passion for turning raw data into valuable insights. Masters in collaborating with cross-functional teams to deliver high-quality solutions saving project costs by around 20%.</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varunrekhi96&label=Profile%20views&color=0e75b6&style=flat" alt="varunrekhi96" /> </p>
